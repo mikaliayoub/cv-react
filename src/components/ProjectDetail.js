@@ -19,7 +19,7 @@ function ProjectDetail() {
               <div className="card-body">
                 <h5 className="card-title" style={{textAlign: "center" , color:"white"}}>{projet.title}</h5>
                 <p className="card-text" style={{textAlign: "center" , color:"white"}}>{projet.description}</p>
-                <a href={projet.Link} className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Preview</a>
+                <a href={projet.Link} className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Details</a>
               </div>
             </div>
           </div>

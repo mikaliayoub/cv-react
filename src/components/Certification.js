@@ -17,7 +17,7 @@ export default function Certification() {
         <div className='project-title card-title h5' style={{textAlign: "center" , color:"white"}}>
         Developing Back-End Apps with Node.js and Express
         </div>      
-          <a href="https://coursera.org/share/00c9e0fc714eb6420beaf01cab562dfb" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Preview</a>
+          <a href="https://coursera.org/share/00c9e0fc714eb6420beaf01cab562dfb" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Details</a>
       </Card>
     </div>
   
@@ -26,7 +26,7 @@ export default function Certification() {
         <div className='project-title card-title h5' style={{textAlign: "center" , color:"white"}}>
         Python Functions, Files, and Dictionaries
         </div>
-        <a href="https://coursera.org/share/9cceb06e8ef852aa6a4a6a58c870f4db" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Preview</a>
+        <a href="https://coursera.org/share/9cceb06e8ef852aa6a4a6a58c870f4db" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Details</a>
       </Card>
     </div>
 
@@ -35,7 +35,7 @@ export default function Certification() {
         <div className='project-title card-title h5' style={{textAlign: "center" , color:"white"}}>
         Data Collection and Processing with Python
         </div>
-        <a href="https://coursera.org/share/2f9816abe0d82cfc895aca78e5de6b6f" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Preview</a>
+        <a href="https://coursera.org/share/2f9816abe0d82cfc895aca78e5de6b6f" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Details</a>
       </Card>
     </div>
 
@@ -44,7 +44,7 @@ export default function Certification() {
         <div className='project-title card-title h5' style={{textAlign: "center" , color:"white"}}>
         Introduction to DevOps
         </div>
-        <a href="https://coursera.org/share/0ff08f9e2bc4813494beee353a0ba350" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Preview</a>
+        <a href="https://coursera.org/share/0ff08f9e2bc4813494beee353a0ba350" className="btn btn-primary" style={{ width: "100%", backgroundColor: "white", textAlign: "center" , color:"#635985"}}>Details</a>
       </Card>
     </div>
     
